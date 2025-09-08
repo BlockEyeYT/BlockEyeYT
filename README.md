@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Figma, Python & JS**
 
-- 📝 I somtimes write on [https://blockeyewastaken.medium.com](https://blockeyewastaken.medium.com)
+- 📝 I sometimes write on [https://blockeyewastaken.medium.com](https://blockeyewastaken.medium.com)
 
 - 💬 Ask me about **Game Design!**
 
@@ -17,7 +17,8 @@
 <p align="left">
 <a href="https://dev.to/blockeye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="blockeye" height="30" width="40" /></a>
 <a href="https://instagram.com/blockeye_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blockeye_" height="30" width="40" /></a>
-<a href="https://medium.com/blockeyewastaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="blockeyewastaken" height="30" width="40" /></a>
+<a href="https://medium.com/@blockeyewastaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@blockeyewastaken" height="30" width="40" /></a>
+<a href="/https://medium.com/feed/@blockeyewastaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@blockeyewastaken" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
