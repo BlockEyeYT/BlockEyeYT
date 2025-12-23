@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Game Design!**
 
-- 📫 How to reach me **brot@lagstudios.xyz**
+- 📫 How to reach me **contact@northerncrown.xyz**
 
 - ⚡ Fun fact **I am a Manchester United fan! GGMU**
 
