@@ -2,11 +2,9 @@
 <h3 align="center">A passionate developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif">
 
-- 🔭 I’m currently working on [games with Lag Studios](https://lagstudios.xyz)
+- 🔭 I’m currently working on games with Lag Studios
 
 - 🌱 I’m currently learning **Figma, Python & JS**
-
-- 📝 I sometimes write on [https://blockeyewastaken.medium.com](https://blockeyewastaken.medium.com)
 
 - 💬 Ask me about **Game Design!**
 
